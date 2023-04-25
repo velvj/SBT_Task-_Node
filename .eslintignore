@@ -1,0 +1,9 @@
+#ignore generated reports
+mochawesome-reports
+eslint-reports
+test/api
+package.json
+package-lock.json
+swagger.yaml
+.eslintrc.json
+README.MD

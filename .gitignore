@@ -1,0 +1,6 @@
+# These are commonly ignored files.
+
+# Node artifact files
+/node_modules
+.env
+/package-lock.json
